@@ -1,0 +1,50 @@
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+
+# Rider/JetBrains IDE
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because restore can get them from NuGet
+packages/
+*.snupkg
+
+# ASP.NET temporary files
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*_h.h
+
+# Logs
+*.log
+*.tlog
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dotnet CLI cache
+.project.lock.json
+*.dotCover

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grade-calculator", "grade-c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string-reversal", "string-reversal\string-reversal.csproj", "{46084B08-CA3C-4982-8E2C-98FB36368668}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "filter-transform", "filter-transform\filter-transform.csproj", "{DDFB2172-2255-4548-916C-BD8BCFF201F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{46084B08-CA3C-4982-8E2C-98FB36368668}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46084B08-CA3C-4982-8E2C-98FB36368668}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46084B08-CA3C-4982-8E2C-98FB36368668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFB2172-2255-4548-916C-BD8BCFF201F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFB2172-2255-4548-916C-BD8BCFF201F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFB2172-2255-4548-916C-BD8BCFF201F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFB2172-2255-4548-916C-BD8BCFF201F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
